@@ -1,0 +1,61 @@
+
+
+
+Chức năng trong hệ thống:
+    Tìm kiếm vị trí sách
+    Checkin/Checkout
+    Đăng nhập:
+        Quản lý
+        Admin
+    Đổi mật khẩu 
+    Quản lý vào ra 
+    Quản lý sách:
+        Quản lý thể loại
+            Xem toàn bộ thể loại
+            thêm, sửa, xóa
+        Quản lý sách
+            Xem toàn bộ sách
+            Tìm kiếm
+            Lọc thể loại
+            Xem chi tiết, thêm, sửa, xóa 
+    Quản lý nhà cung cấp
+        Xem toàn bộ
+        tìm kiếm 
+        Thêm, sửa, xóa, xem
+    Quản lý bạn đọc
+        tìm kiếm, xem, thêm, sửa, xóa 
+    Quản lý mượn
+        tìm kiếm mã bạn đọc, thêm, sửa, xuất phiếu
+    Quản lý trả
+        tìm kiếm mã bạn đọc, chọn sách trả, xuất phiếu
+        Thêm vi phạm
+            chọn sách vi phạm
+            Chọn loại vi phạm: thêm loại vi phạm mới
+            thêm mô tả 
+    Quản lý thủ thư
+        tìm kiếm
+        xem, thêm, sửa 
+    Quản lý nhập hàng
+        Chưa giao:
+            thêm phiếu nhập
+                chọn nhà cung cấp, thêm nhà cung cấp
+                thêm sách nhập
+                thêm, sửa, xóa, reset 
+            Xem, xóa 
+            Cập nhật ngày giao
+        Đã giao:
+            Xem chi tiết
+                Chọn sách -> cập nhật mã sách
+                    thêm sách
+                    Chọn sách
+                    Sinh mã quyển   
+   
+    Thống kê
+        Bạn đọc: tìm kiếm theo ngày, xuất 
+        sách nhập: tìm kiếm theo ngày, reset, 
+        Sách mượn: tìm kiếm theo ngày, lọc quá hạn, reset, xuất 
+        Sách trả: tìm kiếm theo ngày, sách lỗi, xuất, reset
+        Vi phạm: tìm kiếm theo ngày, người vi phạm, xem chi tiết 
+       
+
+
